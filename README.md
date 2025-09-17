@@ -1,6 +1,11 @@
-# Calories Goal Tracker (C)
+# 🍎 Calories Goal Tracker (C Project)
 
-A menu-driven C console app that logs **steps**, **direct calories**, and **distance** (with intensity levels), validates input, tracks **progress toward a daily calories goal**, and prints a **final summary**.
+![C](https://img.shields.io/badge/language-C-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/vhkarpuk/calories-goal-tracker-c)
+
+A **simple calorie tracking program in C** where users set a daily goal and log their food intake.  
+Designed to practice **loops, arrays, conditionals, and console interaction**.
 
 ## Features
 - **Daily goal** (validated, positive number) with live **progress %** after each entry
